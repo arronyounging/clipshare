@@ -2,7 +2,7 @@
 
 > A Chrome extension that transforms selected web content into beautiful, shareable cards with metadata and QR codes. ✨
 
-
+![ClipShare Demo](docs/demo.png)
 
 ## Background
 
